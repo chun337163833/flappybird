@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "grunt-jasmine-runner": "~0.6.0",
+    "grunt": "~0.4.4",
+    "grunt-contrib-jasmine": "~0.6.3",
+    "grunt-shell": "~0.6.4"
+  }
+}
